@@ -1,4 +1,4 @@
-# Grokking Deep Learning
+# Grokking Deep Learningg
 
 A beginner-friendly guide to understanding deep learning from the ground up, building a solid foundation to master major deep learning frameworks.
 
